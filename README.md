@@ -4,6 +4,8 @@ UI components made in Vue 3 with ⚡️ Vite ⚡️
 
 Peek a component, copy the code and feel free to reuse it into your project.
 
+[Featured Screenshots](./screenshots)
+
 ## Setup
 
 1. Clone the project `git clone https://github.com/yazida-io/templates.git`
