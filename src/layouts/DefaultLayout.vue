@@ -1,7 +1,7 @@
 <template>
   <div class="bg-pink-50 h-screen pt-10">
     <div class="bg-white container mx-auto rounded-lg shadow-md p-4">
-      <!-- Inject your components here... -->
+      <router-view></router-view>
     </div>
   </div>
 </template>
@@ -10,6 +10,6 @@
 import { defineComponent } from "vue";
 
 export default defineComponent({
-  name: "App"
+  name: "DefaultLayout"
 });
 </script>
