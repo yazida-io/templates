@@ -1,12 +1,11 @@
 <template>
-  <component2 />
+  <component3 />
 </template>
 <script lang="ts">
-import Component1 from "../components/Component1.vue";
-import Component2 from "../components/Component2.vue";
+import Component3 from "../components/Component3.vue";
 import { defineComponent } from "vue";
 
 export default defineComponent({
-  components: { Component1, Component2 }
+  components: { Component3 }
 });
 </script>
